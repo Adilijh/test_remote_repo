@@ -1,1 +1,2 @@
 i am using the git clone , push pull and fetch command and try to undeerstand it thorughtly.
+now i am using the git push command to to upload my local commit to my remote repo.
